@@ -1,0 +1,31 @@
+1. Central Server. 
+2. All Projects are available here.
+3. Multiple users can work on individual projects.
+4. By using branching system.
+5. Users will keep one copy of projects in local machine.
+
+
+
+
+Step 1: -
+------------------Configuration------------------
+
+git config --global user.email "bandi.vamshi408@gmail.com"
+git config --global user.name "vamshi408"
+git config --global user.password "******"
+
+
+Spet 2: -
+----------------Clone  or Copy Project into local Machine---------
+git clone https://github.com/vamshi408/PruthviRepo.git
+
+
+Step 3:- 
+----------------Tasks---------------------------------
+git branch
+git branch pruthvi
+git checkout pruthvi
+git pull origin Master
+git add .
+git commit -m "Message"
+git push origin pruthvi
