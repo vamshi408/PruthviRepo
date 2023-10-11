@@ -1,0 +1,8 @@
+git branch  --> On which branch I am present.
+git branch NewBranchName  --> To create a new branch.
+git checkout NewBranchName  --> To go to created NewBranchName.
+git pull origin Master  --> To take latest changes from server to local machine.
+git add .  --> To add all files to this branch.
+git commit -m "Our Own Message"   --> to commit to branch and the we can proceed for push
+git push origin NewBranchName   --> to push this branch to server or repo.
+then go to serer to create a pull request.
