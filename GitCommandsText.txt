@@ -29,3 +29,9 @@ git pull origin Master
 git add .
 git commit -m "Message"
 git push origin pruthvi
+
+
+Step 4:- 
+----------------Pull Request & Merge---------------------------------
+Go to github and create a pull request
+then merge the pruthvi branch to Master Branch.
